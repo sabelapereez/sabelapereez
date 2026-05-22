@@ -1,11 +1,12 @@
 ![Header](./header.jpg)
 
 # Hello World! ✨
-Soy estudiante de Ingeniería Informática, apasionada por la tecnología y el desarrollo de software. Me considero curiosa, autodidacta y comprometida con mi aprendizaje. Tengo experiencia participando en hackatones y eventos tecnológicos. Busco oportunidades donde aplicar mis conocimientos y contribuir con energía y creatividad.
+I am a Computer Engineering student motivated by building solutions that help people and provide real value. I'm constantly seeking opportunities to grow and make an impact. You can find me at tech events keeping up with industry trends or collaborating with teams at hackathons.
 
-## Mi Stack
-Tengo conocimientos y experiencia en proyectos con **C y Java**, además de saber manejarme con **bases de datos SQL** (específicamente con PostgreSQL). 
-Como estudiante de ingeniería no me son desconocidas las redes, los sistemas operativos o la arquitectura de computadoras, lo que me proporciona una visión muy global del desarrollo del software.
-Actualmente estoy aprendiendo **Desarrollo Móvil**, más concretamente **React Native con Expo** para crear aplicaciones. 
+## My Stack
+My core expertise lies in **Java** with **Spring Boot** on the backend and **React** on the frontend, however, I also have knowledge of **Kotlin** and **C**. I am a fast learner, and I've worked with a wide range of languages and frameworks including JavaScript, Tailwind CSS, Python, and more. I pick up new technologies quickly and I'm not intimidated by unfamiliar stacks.  
 
-*No dudes en contactarme para cualquier idea, comentario o proyecto.* :smile:
+Beyond languages, I'm comfortable with tools like **Git**, **Docker**, and **SQL databases**.
+I can contribute to both **web development** (full-stack) and **Android development**.
+
+*Feel free to reach out with any ideas, questions, or project proposals — I'm always open to a good conversation.* :smile:
